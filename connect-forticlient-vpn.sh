@@ -46,6 +46,6 @@ if grep -E "ERROR|Failed|incorrect" "$LOG_FILE"; then
   exit 1
 else
   # 发送连接成功的通知
-  terminal-notifier -message "✅ VPN Connected Successfully" -title "Forti Client VPN" -sender com.fortinet.FortiClient
+  terminal-notifier -message "🎉 VPN Connected Successfully" -title "Forti Client VPN" -sender com.fortinet.FortiClient
   echo "VPN Connected Successfully"
 fi
