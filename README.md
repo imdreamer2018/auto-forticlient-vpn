@@ -1,7 +1,7 @@
 # Auto Connect FortiClient VPN
 Using shell script to auto connect or disconnect FortiClient VPN, instead of using FortiClient GUI.\
 This script is for macOS only, please insure you have installed [homebrew](https://brew.sh/), if not, please install it first.
-![Streamlit Date Picker](https://github.com/imdreamer2018/auto-forticlient-vpn/blob/master/images/readme.jpg)
+![Streamlit Date Picker](https://github.com/imdreamer2018/auto-forticlient-vpn/blob/master/images/auto-connect-forticlient-vpn.png)
 
 ## Dependency Install
 ```shell
